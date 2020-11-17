@@ -1,0 +1,338 @@
+[
+    {
+        "text": "Jandre",
+        "category": "FirstName"
+    },
+    {
+        "text": "Haider",
+        "category": "FirstName"
+    },
+    {
+        "text": "Euan",
+        "category": "FirstName"
+    },
+    {
+        "text": "Elmer",
+        "category": "FirstName"
+    },
+    {
+        "text": "Haroon",
+        "category": "FirstName"
+    },
+    {
+        "text": "Jenson",
+        "category": "FirstName"
+    },
+    {
+        "text": "Gethin",
+        "category": "FirstName"
+    },
+    {
+        "text": "Bernard",
+        "category": "FirstName"
+    },
+    {
+        "text": "William",
+        "category": "FirstName"
+    },
+    {
+        "text": "Zack",
+        "category": "FirstName"
+    },
+    {
+        "text": "Maximillian",
+        "category": "FirstName"
+    },
+    {
+        "text": "Daniel",
+        "category": "FirstName"
+    },
+    {
+        "text": "John ",
+        "category": "FirstName"
+    },
+    {
+        "text": "Dexter",
+        "category": "FirstName"
+    },
+    {
+        "text": "Kian",
+        "category": "FirstName"
+    },
+    {
+        "text": "Hugh",
+        "category": "FirstName"
+    },
+    {
+        "text": "Jackson",
+        "category": "FirstName"
+    },
+    {
+        "text": "Georgie",
+        "category": "FirstName"
+    },
+    {
+        "text": "Jakob",
+        "category": "FirstName"
+    },
+    {
+        "text": "Mark",
+        "category": "FirstName"
+    },
+    {
+        "text": "Saif",
+        "category": "FirstName"
+    },
+    {
+        "text": "Kyron",
+        "category": "FirstName"
+    },
+    {
+        "text": "Mohamed",
+        "category": "FirstName"
+    },
+    {
+        "text": "Anika",
+        "category": "FirstName"
+    },
+    {
+        "text": "Ronan",
+        "category": "FirstName"
+    },
+    {
+        "text": "",
+        "category": "FirstName"
+    },
+    {
+        "text": "",
+        "category": "FirstName"
+    },
+    {
+        "text": "Zach",
+        "category": "FirstName"
+    },
+    {
+        "text": "Ibrahim",
+        "category": "FirstName"
+    },
+    {
+        "text": "Jean",
+        "category": "FirstName"
+    },
+    {
+        "text": "Martin",
+        "category": "FirstName"
+    },
+    {
+        "text": "Chester",
+        "category": "FirstName"
+    },
+    {
+        "text": "Warren",
+        "category": "FirstName"
+    },
+    {
+        "text": "Conner",
+        "category": "FirstName"
+    },
+    {
+        "text": "Tommy",
+        "category": "FirstName"
+    },
+    
+    {
+        "text": "Erasmus",
+        "category": "LastName"
+    },
+    {
+        "text": "Stander",
+        "category": "LastName"
+    },
+    {
+        "text": "Van Rensburg",
+        "category": "LastName"
+    },
+    {
+        "text": "Vermaak",
+        "category": "LastName"
+    },
+    {
+        "text": "Dube",
+        "category": "LastName"
+    },
+    {
+        "text": "Hanekom",
+        "category": "LastName"
+    },
+    {
+        "text": "Isaacs",
+        "category": "LastName"
+    },
+    {
+        "text": "Wright",
+        "category": "LastName"
+    },
+    {
+        "text": "Roberts",
+        "category": "LastName"
+    },
+    {
+        "text": "Watson",
+        "category": "LastName"
+    },
+    {
+        "text": "Phiri",
+        "category": "LastName"
+    },
+    {
+        "text": "Van Zyl",
+        "category": "LastName"
+    },
+    {
+        "text": "Visser",
+        "category": "LastName"
+    },
+    {
+        "text": "Solomon",
+        "category": "LastName"
+    },
+    {
+        "text": "Phiri",
+        "category": "LastName"
+    },
+    {
+        "text": "Kevin Schmidt",
+        "category": "LastName"
+    },
+    {
+        "text": "Enslin",
+        "category": "LastName"
+    },
+    {
+        "text": "Van Eeden",
+        "category": "LastName"
+    },
+    
+
+    {
+        "text": "Telephone Number",
+        "category": "Telephone Number"
+    },
+    {
+        "text": "081-155-5745",
+        "category": "Telephone Number"
+    },
+    {
+        "text": "081-452-8923",
+        "category": "Telephone Number"
+    },
+    {
+        "text": "081-452-7524",
+        "category": "Telephone Number"
+    },
+    {
+        "text": "081-785-2788",
+        "category": "Telephone Number"
+    },
+    {
+        "text": "081-456-6985",
+        "category": "Telephone Number"
+    },
+    {
+        "text": "081-854-7854",
+        "category": "Telephone Number"
+    },
+    {
+        "text": "071-563-7854",
+        "category": "Telephone Number"
+    },
+    {
+        "text": "071-542-7857",
+        "category": "Telephone Number"
+    },
+    {
+        "text": "071-125-5468",
+        "category": "Telephone Number"
+    },
+    {
+        "text": "071-546-7852",
+        "category": "Telephone Number"
+    },
+    {
+        "text": "071-556-9658",
+        "category": "Telephone Number"
+    },
+    {
+        "text": "071-586-8754",
+        "category": "Telephone Number"
+    },
+    {
+        "text": "071-947-9864",
+        "category": "Telephone Number"
+    },
+    {
+        "text": "ID",
+        "category": "ID"
+    },
+    {
+        "text": "0123456789012",
+        "category": "ID"
+    },
+    {
+        "text": "1234567890123",
+        "category": "ID"
+    },
+    {
+        "text": "2345678901234",
+        "category": "ID"
+    },
+    {
+        "text": "3456789012342",
+        "category": "ID"
+    },
+    {
+        "text": "4567890123423",
+        "category": "ID"
+    },{
+        "text": "5678901234234",
+        "category": "ID"
+    },{
+        "text": "6789012342345",
+        "category": "ID"
+    },{
+        "text": "7890123423456",
+        "category": "ID"
+    },{
+        "text": "8901234234567",
+        "category": "ID"
+    },{
+        "text": "9012342345678",
+        "category": "ID"
+    },{
+        "text": "0123423456789",
+        "category": "ID"
+    },{
+        "text": "1234234567890",
+        "category": "ID"
+    },{
+        "text": "2342345678901",
+        "category": "ID"
+    },
+    {
+        "text": "3423456789012",
+        "category": "ID"
+    },
+    {
+        "text": "@gmail.com",
+        "category": "Email"
+    },
+    {
+        "text": "@outlook.com",
+        "category": "Email"
+    },
+    
+    {
+        "text": "Email",
+        "category": "Email"
+    }
+]
