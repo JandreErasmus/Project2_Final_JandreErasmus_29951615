@@ -12,7 +12,7 @@ var contents = "";
 
 // set up mongoose
 
-//mongodb+srv://Jandre:OhCwg0mVTJCL6nUV@main.venbh.mongodb.net/files?retryWrites=true&w=majority
+
 
 mongoose.connect(process.env.MONGODB_CONNECTION_STRING, {
     useNewUrlParser: true,
@@ -90,6 +90,11 @@ app.post('/upload', (req,res) => {
     })
     
 })
+
+//herokuSetUp
+if(process.env.NODE_ENV === 'production'){
+    app.use(express.static('client/build'));
+}
 
 
 //server port
