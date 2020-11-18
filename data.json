@@ -1,5 +1,21 @@
 [
     {
+        "text": "Male",
+        "category": "Male"
+    },
+    {
+        "text": "Female",
+        "category": "Female"
+    },
+    {
+        "text": "M",
+        "category": "Male"
+    },
+    {
+        "text": "F",
+        "category": "Female"
+    },
+    {
         "text": "Jandre",
         "category": "FirstName"
     },
